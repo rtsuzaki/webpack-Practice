@@ -1,0 +1,23 @@
+{
+  "name": "webpack_example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACRUNNER/webpackExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACRUNNER/webpackExample/issues"
+  },
+  "homepage": "https://github.com/ACRUNNER/webpackExample#readme",
+  "devDependencies": {
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  }
+}
